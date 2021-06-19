@@ -17,6 +17,7 @@
 
 
 # 3. Mengubah Data
+![4](https://user-images.githubusercontent.com/81582495/122639677-5e3d4180-d125-11eb-99ac-66f74b51b995.PNG)
 ![5](https://user-images.githubusercontent.com/81582495/122639667-58476080-d125-11eb-826d-7904c21a7c60.PNG)
 ![6](https://user-images.githubusercontent.com/81582495/122639683-672e1300-d125-11eb-8d44-ecabef254e92.PNG)
 ![image](https://user-images.githubusercontent.com/81582495/122639820-41553e00-d126-11eb-9e8f-97290c404a67.png)
