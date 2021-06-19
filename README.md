@@ -23,3 +23,6 @@
 ![image](https://user-images.githubusercontent.com/81582495/122639828-57fb9500-d126-11eb-94fe-e7d744aa23f1.png)
 
 # 4. Tampilan Setelah Dihapus
+![Screenshot (203)](https://user-images.githubusercontent.com/81582495/122651331-4c2dc400-d162-11eb-819c-2db25db2e7de.png)
+![Screenshot (204)](https://user-images.githubusercontent.com/81582495/122651346-6798cf00-d162-11eb-9c63-4d665859d84d.png)
+
