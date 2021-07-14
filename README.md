@@ -5,25 +5,21 @@
 # Menambahkan Sistem CRUD ke Tabel Tugas 8
 
 # 1. Tampilan Awal
-![1](https://user-images.githubusercontent.com/81582495/122639663-45cd2700-d125-11eb-829b-0f4def6a63ec.PNG)
+![image](https://user-images.githubusercontent.com/81582495/125632972-07c53a21-489d-4ef6-8304-32f4df1f0e1f.png)
 
 # 2. Menammbahkan Data
-![2](https://user-images.githubusercontent.com/81582495/122639666-4e256200-d125-11eb-81e4-787fb522ba41.PNG)
-![3](https://user-images.githubusercontent.com/81582495/122639673-5d0c1480-d125-11eb-87e5-91dadf148cbf.PNG)
-![4](https://user-images.githubusercontent.com/81582495/122639677-5e3d4180-d125-11eb-99ac-66f74b51b995.PNG)
-![7](https://user-images.githubusercontent.com/81582495/122639691-71e8a800-d125-11eb-92d3-8289290013b1.PNG)
-![image](https://user-images.githubusercontent.com/81582495/122639800-25519c80-d126-11eb-87cd-ae72b33cf25c.png)
-![image](https://user-images.githubusercontent.com/81582495/122639848-6f3a8280-d126-11eb-833b-3f8c6fe65df5.png)
-
+![image](https://user-images.githubusercontent.com/81582495/125633075-4380d073-da2a-4cba-a1a5-6801047ec9dc.png)
+![image](https://user-images.githubusercontent.com/81582495/125633191-548d37de-f589-4c09-9eaa-22a7b6755f47.png)
+![image](https://user-images.githubusercontent.com/81582495/125633981-80072596-dadb-4489-ac33-6572fca7e997.png)
+![image](https://user-images.githubusercontent.com/81582495/125634051-c11d554d-6ac9-49c3-9ebe-676a4f07942f.png)
 
 # 3. Mengubah Data
-![4](https://user-images.githubusercontent.com/81582495/122639677-5e3d4180-d125-11eb-99ac-66f74b51b995.PNG)
-![5](https://user-images.githubusercontent.com/81582495/122639667-58476080-d125-11eb-826d-7904c21a7c60.PNG)
-![6](https://user-images.githubusercontent.com/81582495/122639683-672e1300-d125-11eb-8d44-ecabef254e92.PNG)
-![image](https://user-images.githubusercontent.com/81582495/122639820-41553e00-d126-11eb-9e8f-97290c404a67.png)
-![image](https://user-images.githubusercontent.com/81582495/122639828-57fb9500-d126-11eb-94fe-e7d744aa23f1.png)
+![image](https://user-images.githubusercontent.com/81582495/125634150-e1e52bc9-7f51-4ee2-9fa6-cd4f48b6201c.png)
+![image](https://user-images.githubusercontent.com/81582495/125634825-03b5bc39-4d90-4bd7-bee8-10b5ae8e8373.png)
+![image](https://user-images.githubusercontent.com/81582495/125635328-da605e4a-ad7a-4fd7-918d-5a21feb8f9df.png)
+![image](https://user-images.githubusercontent.com/81582495/125635355-74a18d2d-ebec-4296-a092-6e954da6f0c1.png)
 
 # 4. Tampilan Setelah Dihapus
-![Screenshot (203)](https://user-images.githubusercontent.com/81582495/122651331-4c2dc400-d162-11eb-819c-2db25db2e7de.png)
+![image](https://user-images.githubusercontent.com/81582495/125635541-c8d6088c-1b1c-4ac3-a447-6f16202ecaa6.png)
 ![Screenshot (204)](https://user-images.githubusercontent.com/81582495/122651346-6798cf00-d162-11eb-9c63-4d665859d84d.png)
 
